@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Anne Stroppe</title>
+    <link>http://localhost:1313/publication_types/2/</link>
+      <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>2</title>
+      <link>http://localhost:1313/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Special Issue Conclusion. The GLES Open Science Challenge 2021 in Hindsight: Experiences Gained and Lessons Learned</title>
+      <link>http://localhost:1313/publication/2023-01-01_special_issue_conclu/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-01-01_special_issue_conclu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty</title>
+      <link>http://localhost:1313/publication/2022-01-01_observing_many_resea/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-01-01_observing_many_resea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stadt, Land, Wahl</title>
+      <link>http://localhost:1313/publication/2022-01-01_stadt_land_wahl/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-01-01_stadt_land_wahl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

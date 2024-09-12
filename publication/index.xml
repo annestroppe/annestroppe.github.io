@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Anne Stroppe</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Pandemie und Wahlverhalten</title>
+      <link>http://localhost:1313/publication/2024-01-01_pandemie_und_wahlver/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-01-01_pandemie_und_wahlver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wohnungsmaerkte, politische Einstellungen und Wahlverhalten bei der Bundestagswahl 2021</title>
+      <link>http://localhost:1313/publication/2024-01-01_wohnungsmaerkte_pol/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-01-01_wohnungsmaerkte_pol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Left behind in a public services wasteland? On the accessibility of public services and political trust</title>
+      <link>http://localhost:1313/publication/journal-article-geo/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article-geo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Issue Introduction. The GLES Open Science Challenge 2021: A Pilot Project on the Applicability of Registered Reports in Quantitative  Political Scienc</title>
+      <link>http://localhost:1313/publication/journal-article-pvs/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article-pvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Issue Conclusion. The GLES Open Science Challenge 2021 in Hindsight: Experiences Gained and Lessons Learned</title>
+      <link>http://localhost:1313/publication/2023-01-01_special_issue_conclu/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-01-01_special_issue_conclu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty</title>
+      <link>http://localhost:1313/publication/2022-01-01_observing_many_resea/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-01-01_observing_many_resea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stadt, Land, Wahl</title>
+      <link>http://localhost:1313/publication/2022-01-01_stadt_land_wahl/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-01-01_stadt_land_wahl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Einstellungen zu Demokratie und Sozialstaat</title>
+      <link>http://localhost:1313/publication/2021-01-01_einstellungen_zu_dem/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-01-01_einstellungen_zu_dem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regierungs- und Parteileistung</title>
+      <link>http://localhost:1313/publication/2019-01-01_regierungs-_und_part/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-01-01_regierungs-_und_part/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Die NSDAP-Mitglieder in Danzig-Westpreussen und dem Saargebiet</title>
+      <link>http://localhost:1313/publication/2016-01-01_die_nsdap-mitglieder/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016-01-01_die_nsdap-mitglieder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

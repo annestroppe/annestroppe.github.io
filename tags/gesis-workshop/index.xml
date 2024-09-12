@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GESIS Workshop | Anne Stroppe</title>
+    <link>http://localhost:1313/tags/gesis-workshop/</link>
+      <atom:link href="http://localhost:1313/tags/gesis-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>GESIS Workshop</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>GESIS Workshop</title>
+      <link>http://localhost:1313/tags/gesis-workshop/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Geospatial Techniques for Social Scientists in R</title>
+      <link>http://localhost:1313/teaching/geo-ws/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/geo-ws/</guid>
+      <description>&lt;p align=center&gt;   
+&lt;a href=&#34;https://github.com/StefanJuenger/gesis-workshop-geospatial-techniques-R-2024/archive/refs/heads/main.zip&#34;&gt;&lt;b&gt;CLICK HERE FOR DOWNLOAD ALL COURSE MATERIALS&lt;/b&gt;&lt;/a&gt; 
+&lt;/p&gt;
+&lt;p align=center&gt;   
+&lt;a href=&#34;https://stefanjuenger.github.io/gesis-workshop-geospatial-techniques-R-2024/&#34;&gt;&lt;b&gt;CLICK HERE FOR AN UNCLUTTERED VIEW&lt;/b&gt;&lt;/a&gt; 
+&lt;/p&gt;
+&lt;p&gt;Materials for the GESIS workshop &amp;ldquo;Introduction to Geospatial Techniques for Social Scientists in R&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+ (
+) &amp;amp; Anne-Kathrin Stroppe (
+)&lt;/p&gt;
+&lt;h2 id=&#34;workshop-description&#34;&gt;Workshop Description&lt;/h2&gt;
+&lt;p&gt;In recent years, many researchers have renewed interest in the spatially integrated social sciences, following the call for a &amp;lsquo;spatial turn&amp;rsquo; among plenty of its subdisciplines. However, to process, visualize, and analyze geospatial data, social scientists must first be trained in specialized tools called Geographic Information Systems (GIS). The good news is: While this may have been an unacquainted undertaking until recently, the familiar open-source statistical language R can now serve as a full-blown GIS for many research applications.
+This course will teach its participants how to exploit R to apply its geospatial techniques in a social science context. We will learn about the most common data formats, their characteristics, and their applications. Most importantly, the course will present available data sources and how to get data and process them for further analysis. These steps involve essential geospatial operations, such as cropping, aggregating, or linking data, and they are the first fundamental steps of modeling and assessing spatial interdependence. The course will be hands-on, so it also includes one of the most rewarding tasks of working with geospatial data: visualizing them through maps.&lt;/p&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;h3 id=&#34;day-1&#34;&gt;Day 1&lt;/h3&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;day-2&#34;&gt;Day 2&lt;/h3&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;exercises&#34;&gt;Exercises&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;solutions&#34;&gt;Solutions&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anne Stroppe</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/</link>
+      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <description>Anne Stroppe</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu14108801522638442139.png</url>
+      <url>http://localhost:4321/media/icon_hu14108801522638442139.png</url>
       <title>Anne Stroppe</title>
-      <link>http://localhost:1313/</link>
+      <link>http://localhost:4321/</link>
     </image>
     
     <item>
       <title>Introduction to Geospatial Techniques for Social Scientists in R</title>
-      <link>http://localhost:1313/teaching/geo-ws/</link>
+      <link>http://localhost:4321/teaching/geo-ws/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/geo-ws/</guid>
+      <guid>http://localhost:4321/teaching/geo-ws/</guid>
       <description>&lt;p align=center&gt;   
 &lt;a href=&#34;https://github.com/StefanJuenger/gesis-workshop-geospatial-techniques-R-2024/archive/refs/heads/main.zip&#34;&gt;&lt;b&gt;CLICK HERE FOR DOWNLOAD ALL COURSE MATERIALS&lt;/b&gt;&lt;/a&gt; 
 &lt;/p&gt;
@@ -105,25 +105,25 @@ This course will teach its participants how to exploit R to apply its geospatial
     
     <item>
       <title>Pandemie und Wahlverhalten</title>
-      <link>http://localhost:1313/publication/2024-01-01_pandemie_und_wahlver/</link>
+      <link>http://localhost:4321/publication/2024-01-01_pandemie_und_wahlver/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-01-01_pandemie_und_wahlver/</guid>
+      <guid>http://localhost:4321/publication/2024-01-01_pandemie_und_wahlver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wohnungsmaerkte, politische Einstellungen und Wahlverhalten bei der Bundestagswahl 2021</title>
-      <link>http://localhost:1313/publication/2024-01-01_wohnungsmaerkte_pol/</link>
+      <link>http://localhost:4321/publication/2024-01-01_wohnungsmaerkte_pol/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-01-01_wohnungsmaerkte_pol/</guid>
+      <guid>http://localhost:4321/publication/2024-01-01_wohnungsmaerkte_pol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>http://localhost:4321/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>http://localhost:4321/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -231,33 +231,33 @@ This course will teach its participants how to exploit R to apply its geospatial
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>http://localhost:4321/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>http://localhost:4321/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>http://localhost:4321/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>http://localhost:4321/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>http://localhost:4321/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>http://localhost:4321/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
+      <link>http://localhost:4321/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
+      <guid>http://localhost:4321/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -368,9 +368,9 @@ This course will teach its participants how to exploit R to apply its geospatial
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
+      <link>http://localhost:4321/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <guid>http://localhost:4321/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -382,7 +382,7 @@ This course will teach its participants how to exploit R to apply its geospatial
 
 
 
-&lt;div id=&#34;chart-167948352&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-753849126&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -400,7 +400,7 @@ This course will teach its participants how to exploit R to apply its geospatial
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-167948352&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-753849126&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -580,9 +580,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
+      <link>http://localhost:4321/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
+      <guid>http://localhost:4321/post/teach-courses/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -637,7 +637,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:4321/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -696,9 +696,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
+      <link>http://localhost:4321/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
+      <guid>http://localhost:4321/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -771,57 +771,57 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Left behind in a public services wasteland? On the accessibility of public services and political trust</title>
-      <link>http://localhost:1313/publication/journal-article-geo/</link>
+      <link>http://localhost:4321/publication/journal-article-geo/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article-geo/</guid>
+      <guid>http://localhost:4321/publication/journal-article-geo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Special Issue Introduction. The GLES Open Science Challenge 2021: A Pilot Project on the Applicability of Registered Reports in Quantitative  Political Scienc</title>
-      <link>http://localhost:1313/publication/journal-article-pvs/</link>
+      <link>http://localhost:4321/publication/journal-article-pvs/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article-pvs/</guid>
+      <guid>http://localhost:4321/publication/journal-article-pvs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Special Issue Conclusion. The GLES Open Science Challenge 2021 in Hindsight: Experiences Gained and Lessons Learned</title>
-      <link>http://localhost:1313/publication/2023-01-01_special_issue_conclu/</link>
+      <link>http://localhost:4321/publication/2023-01-01_special_issue_conclu/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-01-01_special_issue_conclu/</guid>
+      <guid>http://localhost:4321/publication/2023-01-01_special_issue_conclu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty</title>
-      <link>http://localhost:1313/publication/2022-01-01_observing_many_resea/</link>
+      <link>http://localhost:4321/publication/2022-01-01_observing_many_resea/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022-01-01_observing_many_resea/</guid>
+      <guid>http://localhost:4321/publication/2022-01-01_observing_many_resea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stadt, Land, Wahl</title>
-      <link>http://localhost:1313/publication/2022-01-01_stadt_land_wahl/</link>
+      <link>http://localhost:4321/publication/2022-01-01_stadt_land_wahl/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022-01-01_stadt_land_wahl/</guid>
+      <guid>http://localhost:4321/publication/2022-01-01_stadt_land_wahl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Einstellungen zu Demokratie und Sozialstaat</title>
-      <link>http://localhost:1313/publication/2021-01-01_einstellungen_zu_dem/</link>
+      <link>http://localhost:4321/publication/2021-01-01_einstellungen_zu_dem/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021-01-01_einstellungen_zu_dem/</guid>
+      <guid>http://localhost:4321/publication/2021-01-01_einstellungen_zu_dem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://localhost:1313/post/2020-12-01-r-rmarkdown/</link>
+      <link>http://localhost:4321/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:1313/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>http://localhost:4321/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see 
 .&lt;/p&gt;
@@ -853,7 +853,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://localhost:4321/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -861,17 +861,17 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Regierungs- und Parteileistung</title>
-      <link>http://localhost:1313/publication/2019-01-01_regierungs-_und_part/</link>
+      <link>http://localhost:4321/publication/2019-01-01_regierungs-_und_part/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019-01-01_regierungs-_und_part/</guid>
+      <guid>http://localhost:4321/publication/2019-01-01_regierungs-_und_part/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Die NSDAP-Mitglieder in Danzig-Westpreussen und dem Saargebiet</title>
-      <link>http://localhost:1313/publication/2016-01-01_die_nsdap-mitglieder/</link>
+      <link>http://localhost:4321/publication/2016-01-01_die_nsdap-mitglieder/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2016-01-01_die_nsdap-mitglieder/</guid>
+      <guid>http://localhost:4321/publication/2016-01-01_die_nsdap-mitglieder/</guid>
       <description></description>
     </item>
     

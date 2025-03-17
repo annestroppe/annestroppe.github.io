@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Anne Stroppe</title>
-    <link>http://localhost:1313/teaching/</link>
-      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/teaching/</link>
+      <atom:link href="http://localhost:4321/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu14108801522638442139.png</url>
+      <url>http://localhost:4321/media/icon_hu14108801522638442139.png</url>
       <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>http://localhost:4321/teaching/</link>
     </image>
     
     <item>
       <title>Introduction to Geospatial Techniques for Social Scientists in R</title>
-      <link>http://localhost:1313/teaching/geo-ws/</link>
+      <link>http://localhost:4321/teaching/geo-ws/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/geo-ws/</guid>
+      <guid>http://localhost:4321/teaching/geo-ws/</guid>
       <description>&lt;p align=center&gt;   
 &lt;a href=&#34;https://github.com/StefanJuenger/gesis-workshop-geospatial-techniques-R-2024/archive/refs/heads/main.zip&#34;&gt;&lt;b&gt;CLICK HERE FOR DOWNLOAD ALL COURSE MATERIALS&lt;/b&gt;&lt;/a&gt; 
 &lt;/p&gt;

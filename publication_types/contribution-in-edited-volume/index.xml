@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contribution in Edited Volume | Anne Stroppe</title>
+    <link>http://localhost:4321/publication_types/contribution-in-edited-volume/</link>
+      <atom:link href="http://localhost:4321/publication_types/contribution-in-edited-volume/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contribution in Edited Volume</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu14108801522638442139.png</url>
+      <title>Contribution in Edited Volume</title>
+      <link>http://localhost:4321/publication_types/contribution-in-edited-volume/</link>
+    </image>
+    
+    <item>
+      <title>Pandemie und Wahlverhalten</title>
+      <link>http://localhost:4321/publication/2024-01-01_pandemie_und_wahlver/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/2024-01-01_pandemie_und_wahlver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wohnungsmaerkte, politische Einstellungen und Wahlverhalten bei der Bundestagswahl 2021</title>
+      <link>http://localhost:4321/publication/2024-01-01_wohnungsmaerkte_pol/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/2024-01-01_wohnungsmaerkte_pol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

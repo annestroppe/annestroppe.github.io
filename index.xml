@@ -13,6 +13,46 @@
     </image>
     
     <item>
+      <title>Place, Perception, and Politics.  A Geospatial Analysis of Deprivation and Discontent</title>
+      <link>http://localhost:4321/ongoing/dissertation/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/ongoing/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Listening to Rural Voices: Understanding and Mitigating Rural Resentment through a Citizen Council in a Real-World Experimental Study</title>
+      <link>http://localhost:4321/ongoing/resentment/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/ongoing/resentment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptions vs. Reality: Bridging the Objective-Subjective Nexus of Place Deprivation</title>
+      <link>http://localhost:4321/ongoing/subjobj/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/ongoing/subjobj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The uncertain geographic context problem and the unknown effect of extreme weather on climate change attitudes</title>
+      <link>http://localhost:4321/ongoing/ugcop/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/ongoing/ugcop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protest = Conspiracy x Telegram? The Mobilizing Effect of Conspiracy Beliefs and the Role of Social Media Use</title>
+      <link>http://localhost:4321/ongoing/conspiracy/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/ongoing/conspiracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction to Geospatial Techniques for Social Scientists in R</title>
       <link>http://localhost:4321/teaching/geo-ws/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
@@ -382,7 +422,7 @@ This course will teach its participants how to exploit R to apply its geospatial
 
 
 
-&lt;div id=&#34;chart-753849126&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-276539418&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -400,7 +440,7 @@ This course will teach its participants how to exploit R to apply its geospatial
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-753849126&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-276539418&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

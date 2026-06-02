@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contribution to Edited Volume | Anne Stroppe</title>
-    <link>http://localhost:4321/publication_types/contribution-to-edited-volume/</link>
-      <atom:link href="http://localhost:4321/publication_types/contribution-to-edited-volume/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://annestroppe.github.io/publication_types/contribution-to-edited-volume/</link>
+      <atom:link href="https://annestroppe.github.io/publication_types/contribution-to-edited-volume/index.xml" rel="self" type="application/rss+xml" />
     <description>Contribution to Edited Volume</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu14108801522638442139.png</url>
+      <url>https://annestroppe.github.io/media/icon_hu14108801522638442139.png</url>
       <title>Contribution to Edited Volume</title>
-      <link>http://localhost:4321/publication_types/contribution-to-edited-volume/</link>
+      <link>https://annestroppe.github.io/publication_types/contribution-to-edited-volume/</link>
     </image>
     
     <item>
       <title>Einstellungen zu Demokratie und Sozialstaat</title>
-      <link>http://localhost:4321/publication/2021-01-01_einstellungen_zu_dem/</link>
+      <link>https://annestroppe.github.io/publication/2021-01-01_einstellungen_zu_dem/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2021-01-01_einstellungen_zu_dem/</guid>
+      <guid>https://annestroppe.github.io/publication/2021-01-01_einstellungen_zu_dem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regierungs- und Parteileistung</title>
-      <link>http://localhost:4321/publication/2019-01-01_regierungs-_und_part/</link>
+      <link>https://annestroppe.github.io/publication/2019-01-01_regierungs-_und_part/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2019-01-01_regierungs-_und_part/</guid>
+      <guid>https://annestroppe.github.io/publication/2019-01-01_regierungs-_und_part/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Die NSDAP-Mitglieder in Danzig-Westpreussen und dem Saargebiet</title>
-      <link>http://localhost:4321/publication/2016-01-01_die_nsdap-mitglieder/</link>
+      <link>https://annestroppe.github.io/publication/2016-01-01_die_nsdap-mitglieder/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2016-01-01_die_nsdap-mitglieder/</guid>
+      <guid>https://annestroppe.github.io/publication/2016-01-01_die_nsdap-mitglieder/</guid>
       <description></description>
     </item>
     

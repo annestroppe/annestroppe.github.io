@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article | Anne Stroppe</title>
-    <link>http://localhost:4321/publication_types/article/</link>
-      <atom:link href="http://localhost:4321/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://annestroppe.github.io/publication_types/article/</link>
+      <atom:link href="https://annestroppe.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu14108801522638442139.png</url>
+      <url>https://annestroppe.github.io/media/icon_hu14108801522638442139.png</url>
       <title>Article</title>
-      <link>http://localhost:4321/publication_types/article/</link>
+      <link>https://annestroppe.github.io/publication_types/article/</link>
     </image>
     
     <item>
       <title>Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty</title>
-      <link>http://localhost:4321/publication/2022-01-01_observing_many_resea/</link>
+      <link>https://annestroppe.github.io/publication/2022-01-01_observing_many_resea/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2022-01-01_observing_many_resea/</guid>
+      <guid>https://annestroppe.github.io/publication/2022-01-01_observing_many_resea/</guid>
       <description></description>
     </item>
     

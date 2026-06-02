@@ -2,53 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Current Projects | Anne Stroppe</title>
-    <link>http://localhost:4321/ongoing/</link>
-      <atom:link href="http://localhost:4321/ongoing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://annestroppe.github.io/ongoing/</link>
+      <atom:link href="https://annestroppe.github.io/ongoing/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu14108801522638442139.png</url>
+      <url>https://annestroppe.github.io/media/icon_hu14108801522638442139.png</url>
       <title>Current Projects</title>
-      <link>http://localhost:4321/ongoing/</link>
+      <link>https://annestroppe.github.io/ongoing/</link>
     </image>
     
     <item>
-      <title>Place, Perception, and Politics.  A Geospatial Analysis of Deprivation and Discontent</title>
-      <link>http://localhost:4321/ongoing/dissertation/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/ongoing/dissertation/</guid>
+      <title>Bias in the Map, Bias in the Results? Validating OpenStreetMap Data for Individual-Level Analysis</title>
+      <link>https://annestroppe.github.io/ongoing/osmbias-wip/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://annestroppe.github.io/ongoing/osmbias-wip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>That&#39;s Not Fair?! On the Interplay of Place-Based Deprivation and Perceptions of Deprivation on Political Trust</title>
+      <link>https://annestroppe.github.io/ongoing/trust-deprivation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://annestroppe.github.io/ongoing/trust-deprivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where You Live and How You Feel: The Reinforcing Impact of Place and Perception on Radical-Right Preferences</title>
+      <link>https://annestroppe.github.io/ongoing/rrp-place-perception/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://annestroppe.github.io/ongoing/rrp-place-perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Listening to Rural Voices: Understanding and Mitigating Rural Resentment through a Citizen Council in a Real-World Experimental Study</title>
-      <link>http://localhost:4321/ongoing/resentment/</link>
+      <link>https://annestroppe.github.io/ongoing/resentment/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/ongoing/resentment/</guid>
+      <guid>https://annestroppe.github.io/ongoing/resentment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perceptions vs. Reality: Bridging the Objective-Subjective Nexus of Place Deprivation</title>
-      <link>http://localhost:4321/ongoing/subjobj/</link>
+      <link>https://annestroppe.github.io/ongoing/subjobj/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/ongoing/subjobj/</guid>
+      <guid>https://annestroppe.github.io/ongoing/subjobj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The uncertain geographic context problem and the unknown effect of extreme weather on climate change attitudes</title>
-      <link>http://localhost:4321/ongoing/ugcop/</link>
+      <link>https://annestroppe.github.io/ongoing/ugcop/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/ongoing/ugcop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protest = Conspiracy x Telegram? The Mobilizing Effect of Conspiracy Beliefs and the Role of Social Media Use</title>
-      <link>http://localhost:4321/ongoing/conspiracy/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/ongoing/conspiracy/</guid>
+      <guid>https://annestroppe.github.io/ongoing/ugcop/</guid>
       <description></description>
     </item>
     

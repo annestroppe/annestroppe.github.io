@@ -2,93 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Anne Stroppe</title>
-    <link>http://localhost:4321/publication/</link>
-      <atom:link href="http://localhost:4321/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://annestroppe.github.io/publication/</link>
+      <atom:link href="https://annestroppe.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu14108801522638442139.png</url>
+      <url>https://annestroppe.github.io/media/icon_hu14108801522638442139.png</url>
       <title>Publications</title>
-      <link>http://localhost:4321/publication/</link>
+      <link>https://annestroppe.github.io/publication/</link>
     </image>
     
     <item>
+      <title>Between home turf and Hinterland: Directly elected MPs focus more on local and deprived places than list candidates on social media</title>
+      <link>https://annestroppe.github.io/publication/2026-birkenmaier-home-turf/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://annestroppe.github.io/publication/2026-birkenmaier-home-turf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Die KODAQS-Tools – Eine neue Ressource zur Beurteilung der Qualität von Forschungsdaten</title>
+      <link>https://annestroppe.github.io/publication/2026-peters-kodaqs-tools/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://annestroppe.github.io/publication/2026-peters-kodaqs-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The reliability of replications: a study in computational reproductions</title>
+      <link>https://annestroppe.github.io/publication/2025-breznau-reliability-replications/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://annestroppe.github.io/publication/2025-breznau-reliability-replications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pandemie und Wahlverhalten</title>
-      <link>http://localhost:4321/publication/2024-01-01_pandemie_und_wahlver/</link>
+      <link>https://annestroppe.github.io/publication/2024-01-01_pandemie_und_wahlver/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2024-01-01_pandemie_und_wahlver/</guid>
+      <guid>https://annestroppe.github.io/publication/2024-01-01_pandemie_und_wahlver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wohnungsmaerkte, politische Einstellungen und Wahlverhalten bei der Bundestagswahl 2021</title>
-      <link>http://localhost:4321/publication/2024-01-01_wohnungsmaerkte_pol/</link>
+      <link>https://annestroppe.github.io/publication/2024-01-01_wohnungsmaerkte_pol/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2024-01-01_wohnungsmaerkte_pol/</guid>
+      <guid>https://annestroppe.github.io/publication/2024-01-01_wohnungsmaerkte_pol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Left behind in a public services wasteland? On the accessibility of public services and political trust</title>
-      <link>http://localhost:4321/publication/journal-article-geo/</link>
+      <link>https://annestroppe.github.io/publication/journal-article-geo/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/journal-article-geo/</guid>
+      <guid>https://annestroppe.github.io/publication/journal-article-geo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Special Issue Introduction. The GLES Open Science Challenge 2021: A Pilot Project on the Applicability of Registered Reports in Quantitative  Political Scienc</title>
-      <link>http://localhost:4321/publication/journal-article-pvs/</link>
+      <link>https://annestroppe.github.io/publication/journal-article-pvs/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/journal-article-pvs/</guid>
+      <guid>https://annestroppe.github.io/publication/journal-article-pvs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Special Issue Conclusion. The GLES Open Science Challenge 2021 in Hindsight: Experiences Gained and Lessons Learned</title>
-      <link>http://localhost:4321/publication/2023-01-01_special_issue_conclu/</link>
+      <link>https://annestroppe.github.io/publication/2023-01-01_special_issue_conclu/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2023-01-01_special_issue_conclu/</guid>
+      <guid>https://annestroppe.github.io/publication/2023-01-01_special_issue_conclu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty</title>
-      <link>http://localhost:4321/publication/2022-01-01_observing_many_resea/</link>
+      <link>https://annestroppe.github.io/publication/2022-01-01_observing_many_resea/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2022-01-01_observing_many_resea/</guid>
+      <guid>https://annestroppe.github.io/publication/2022-01-01_observing_many_resea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stadt, Land, Wahl</title>
-      <link>http://localhost:4321/publication/2022-01-01_stadt_land_wahl/</link>
+      <link>https://annestroppe.github.io/publication/2022-01-01_stadt_land_wahl/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2022-01-01_stadt_land_wahl/</guid>
+      <guid>https://annestroppe.github.io/publication/2022-01-01_stadt_land_wahl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Einstellungen zu Demokratie und Sozialstaat</title>
-      <link>http://localhost:4321/publication/2021-01-01_einstellungen_zu_dem/</link>
+      <link>https://annestroppe.github.io/publication/2021-01-01_einstellungen_zu_dem/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2021-01-01_einstellungen_zu_dem/</guid>
+      <guid>https://annestroppe.github.io/publication/2021-01-01_einstellungen_zu_dem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regierungs- und Parteileistung</title>
-      <link>http://localhost:4321/publication/2019-01-01_regierungs-_und_part/</link>
+      <link>https://annestroppe.github.io/publication/2019-01-01_regierungs-_und_part/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2019-01-01_regierungs-_und_part/</guid>
+      <guid>https://annestroppe.github.io/publication/2019-01-01_regierungs-_und_part/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Die NSDAP-Mitglieder in Danzig-Westpreussen und dem Saargebiet</title>
-      <link>http://localhost:4321/publication/2016-01-01_die_nsdap-mitglieder/</link>
+      <link>https://annestroppe.github.io/publication/2016-01-01_die_nsdap-mitglieder/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2016-01-01_die_nsdap-mitglieder/</guid>
+      <guid>https://annestroppe.github.io/publication/2016-01-01_die_nsdap-mitglieder/</guid>
       <description></description>
     </item>
     

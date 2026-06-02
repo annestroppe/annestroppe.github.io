@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graue | Anne Stroppe</title>
-    <link>http://localhost:4321/tags/graue/</link>
-      <atom:link href="http://localhost:4321/tags/graue/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://annestroppe.github.io/tags/graue/</link>
+      <atom:link href="https://annestroppe.github.io/tags/graue/index.xml" rel="self" type="application/rss+xml" />
     <description>Graue</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu14108801522638442139.png</url>
+      <url>https://annestroppe.github.io/media/icon_hu14108801522638442139.png</url>
       <title>Graue</title>
-      <link>http://localhost:4321/tags/graue/</link>
+      <link>https://annestroppe.github.io/tags/graue/</link>
     </image>
     
     <item>
       <title>Einstellungen zu Demokratie und Sozialstaat</title>
-      <link>http://localhost:4321/publication/2021-01-01_einstellungen_zu_dem/</link>
+      <link>https://annestroppe.github.io/publication/2021-01-01_einstellungen_zu_dem/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/2021-01-01_einstellungen_zu_dem/</guid>
+      <guid>https://annestroppe.github.io/publication/2021-01-01_einstellungen_zu_dem/</guid>
       <description></description>
     </item>
     

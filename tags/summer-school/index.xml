@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summer School | Anne Stroppe</title>
+    <link>https://annestroppe.github.io/tags/summer-school/</link>
+      <atom:link href="https://annestroppe.github.io/tags/summer-school/index.xml" rel="self" type="application/rss+xml" />
+    <description>Summer School</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://annestroppe.github.io/media/icon_hu14108801522638442139.png</url>
+      <title>Summer School</title>
+      <link>https://annestroppe.github.io/tags/summer-school/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Topics in Spatial Data</title>
+      <link>https://annestroppe.github.io/teaching/wpm-2026/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://annestroppe.github.io/teaching/wpm-2026/</guid>
+      <description>&lt;p align=center&gt;   
+&lt;a href=&#34;https://github.com/annestroppe/wpm-2026/archive/refs/heads/main.zip&#34;&gt;&lt;b&gt;CLICK HERE FOR DOWNLOAD ALL COURSE MATERIALS&lt;/b&gt;&lt;/a&gt; 
+&lt;/p&gt;
+&lt;p&gt;Materials for the course &amp;ldquo;Advanced Topics in Spatial Data&amp;rdquo; as part of the Summer School for Women in Political Methodology (July 24, 2026)&lt;/p&gt;
+&lt;p&gt;Anne-Kathrin Stroppe. Thanks a lot to 
+ &amp;amp; 
+, who have co-authored these slides.&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+&lt;p&gt;Many of the phenomena political scientists study don&amp;rsquo;t sit independently in space: Voting outcomes, policy adoption, protest behaviour, and migration decisions all tend to cluster, affect neighbouring areas, or diffuse across borders. This spatial dependence is both a risk and an opportunity. It can undermine the assumptions our models rely on, but the very same structure can also become the main interest of the mechanisms we want to explain. In this session we will move through three relationships researchers can have with spatial dependence. First, space can act as a threat, in which case we diagnose dependence, and use spatial error models so it no longer biases our models. Second, space can be a process in its own right, in which case we model diffusion and spillover as the substantive phenomena we actually want to explain. Third, space can serve as leverage, in which case we exploit spatial structure as a source of identifying variation for causal claims.&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The course data comprise the following official (Open Data) sources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;German Census 2022 data are provided by the 
+&lt;/li&gt;
+&lt;li&gt;Shapefiles, voting data, and car-related data for Cologne are gathered from the 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Please make sure that if you reuse any of the provided data to cite the original data sources.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;exercises&#34;&gt;Exercises&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

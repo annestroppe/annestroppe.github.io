@@ -5,7 +5,7 @@
     <link>https://annestroppe.github.io/ongoing/</link>
       <atom:link href="https://annestroppe.github.io/ongoing/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://annestroppe.github.io/media/icon_hu14108801522638442139.png</url>
       <title>Current Projects</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Bias in the Map, Bias in the Results? Validating OpenStreetMap Data for Individual-Level Analysis</title>
-      <link>https://annestroppe.github.io/ongoing/osmbias-wip/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://annestroppe.github.io/ongoing/osmbias-wip/</guid>
+      <title>Left Without Care – Hospital Closures and the Rise of Populist Attitudes</title>
+      <link>https://annestroppe.github.io/ongoing/hospital-closures/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://annestroppe.github.io/ongoing/hospital-closures/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>That&#39;s Not Fair?! On the Interplay of Place-Based Deprivation and Perceptions of Deprivation on Political Trust</title>
-      <link>https://annestroppe.github.io/ongoing/trust-deprivation/</link>
+      <title>Place, Access, and Attitudes: Validating OpenStreetMap Measures of Infrastructural Deprivation in Political Science</title>
+      <link>https://annestroppe.github.io/ongoing/osmbias-wip/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://annestroppe.github.io/ongoing/trust-deprivation/</guid>
+      <guid>https://annestroppe.github.io/ongoing/osmbias-wip/</guid>
       <description></description>
     </item>
     
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>The uncertain geographic context problem and the unknown effect of extreme weather on climate change attitudes</title>
+      <title>The Uncertain Geographic Context Problem and the Unknown Effect of Extreme Weather on Climate Change Attitudes</title>
       <link>https://annestroppe.github.io/ongoing/ugcop/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://annestroppe.github.io/ongoing/ugcop/</guid>
